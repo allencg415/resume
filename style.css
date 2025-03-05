@@ -1,118 +1,47 @@
-<!doctype html>
-
-<html lang="en"> 
-       <head>
-
-     	    <title> SZA's (Solana Imani Rowe) Resume </title>
-
-<body> 
-
-<h1> SZA's (Solana Imani Rowe) Resume </h1>
-<h2> Contact </h2> 
-<p> Artist | Singer | Songwriter | Newark, New Jersey | Instagram: @sza </p>
-<img src= "sza.jpg" alt= "SZA image">
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
 
 
 
-<a href= "https://www.szactrl.com/diary"> SZACTRL</a> 
- 
+  body {
+    font-family: Tenor, Sans-serif;
+    font-size: 16px;
+    outline-style: dotted;
+    }
 
-<h2> Professional Summary
-</h2>
-   
-<p> Innovative and critically acclaimed singer-songwriter with a unique blend of R&B, neo-soul, and hip hop influences. Known for emotionally raw lyrics, captivating vocal performances, and a strong connection with listeners across a wide spectrum of genres. Multiple award-winner, including Grammy and Billboard Music Awards. Continually pushing boundaries in music, fashion, and culture.</p>
+  h1 {
+    text-align: center;
+    font-family: Tenor, Sans-serif;
+    color: #e184b7;
+    font-size: 1.5em;
+    letter-spacing: .1em;
+    font-weight: bold;
+    }
 
-<h2> Professional Experience </h2>
+  h2 {
+    font-size: 1.4em;
+    font-family: Tenor, Sans-serif;
+    letter-spacing: .1em;
+    color: #e184b7;
+    }
 
-<h4> Solo Artist </h4>
+  h4 {
+    font-family: Tenor, Sans-serif;
+    font-size: 1.1em;
+    color: darkblue;
+  }
+  li {
+    font-family: Tenor, Sans-serif;
+    letter-spacing: .1em;
+    color: Black;
+    font-size: 15px;
+  }
 
-Top Dawg Entertainment | 2012–Present
-<ul> 
-<li>Released Ctrl (2017), an album that received widespread critical acclaim, earned multiple Grammy nominations, and solidified SZA as one of the leading voices in modern R&B. </li> 
-<li> Followed up with SOS (2022), debuting at No. 1 on the Billboard 200 and receiving similar success, with notable tracks like “Kill Bill” and “Good Days” gaining chart-topping popularity. </li>
-<li> Toured internationally and performed at major festivals, including Coachella, Glastonbury, and Lollapalooza, with a reputation for captivating, intimate performances. 
-</li> 
-<li> Pioneered a genre-defying approach to R&B and soul music with personal, introspective lyrics paired with innovative soundscapes. </li>
-</ul>
+  p {
+    color: Black;
+    font-family: Tenor, Sans-serif;
+  }
 
-<h4> Songwriter </h4>
-Various Artists | 2012–Present
-<ul> 
-<li> Penned hits for artists like Rihanna (“Consideration”), Nicki Minaj, and Travis Scott, contributing to their commercial success while maintaining a unique voice in her own music. </li>
-<li> Collaborated with major artists like Kendrick Lamar, Travis Scott, Drake, and Doja Cat. 
-</li>
-<li> Wrote and co-wrote songs for top artists, including Rihanna’s “Consideration” and Beyoncé’s “Feeling Myself.” 
-</li>
-<li> Collaborated on chart-topping tracks, including “All the Stars” with Kendrick Lamar for the Black Panther soundtrack, earning Grammy and Oscar nominations. </li>
-</ul>
-
-<h4> Actress (Voice Work) </h4>
-Various Projects | 2019-present 
-<ul>
-<li> Provided voice work for animated characters in projects like The Simpsons and Uncharted 4: A Thief’s End video game, showcasing versatility beyond music. </li>
-</ul>
-<h2> Education </h2>
-
-<h4> Rutgers University, Newark </h4>
-<ul> 
-    <li> Bachelor of Arts in English </li>
-
-    <li> Graduated in 2012 </li>
-
-    <li> Developed a strong foundation in creative writing and literature, influencing lyrical style. </li>
-</ul>
-
-<h2> Skills </h2>
-<ul> 
-<li> Songwriting </li>
-
-<li> Vocal Performance: Mezzo-soprano range, with a signature blend of vulnerability and power. </li>
-
-<li> Production and Arrangment: Proficient in writing across genres, blending personal experiences with universal themes. </li>
-
-<li> Public Speaking and Advocacy: Advocate for mental health awareness and self-love, often sharing personal stories to inspire others. </li>
-
-<li> Music Videos and Visual Arts: Highly involved in creative direction for her visual content, bringing a distinct, artistic vision to her work </li>
-</ul>
-
-<a href= "https://www.youtube.com/watch?v=JQbjS0_ZfJ0"> All The Stars ft. SZA </a> 
-
-<h2> Awards and Achievements </h2>
-<ul>
-
-<li> Grammy Awards: 1 win, 10 nominations (including Best R&B Performance for "Good Days", Best New Artist, Best Album) and Best Progressive R&B Album for SOS </li>
-
-<li> Billboard Music Awards: Multiple wins, including Top Streaming Song for “Good Days.” </li>
-
-<li> MTV Video Music Awards: Nominated for Best Art Direction and Best Female Video. </li>
-
-<li> Apple Music Awards (2021): Album of the Year for Ctrl </li>
-
-<li> BET Awards: Best Female R&B/Pop Artist and Video of the Year. </li>
-</ul>
-
-<h2> Discography </h2>
-
-<ul>
-    <li> Ctrl </li>
-
-    <li> SOS </li>
-
-    <li> SOS Deluxe: LANA </li>
-
-</ul>
-
-<h2> Social Impact </h2>
-
-<ul>
-
-<li> SZA uses her platform to advocate for mental health awareness, body positivity, and self-love, emphasizing these themes in her music and public appearances. </li>
-
-</ul>
-
-
-
-
-</body>
-</html>
-
+  
+.cssblack {
+  color: black;
+}
