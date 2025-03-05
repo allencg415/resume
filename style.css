@@ -5,7 +5,8 @@
   body {
     font-family: Tenor, Sans-serif;
     font-size: 16px;
-    outline-style: dotted;
+    border-style: solid;
+    outline-width: 15px;
     }
 
   h1 {
@@ -45,3 +46,4 @@
 .cssblack {
   color: black;
 }
+
